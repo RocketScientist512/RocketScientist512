@@ -109,6 +109,7 @@ Exploring intelligent workflows, AI-assisted tooling, and automation systems for
 
 - LinkedIn: https://www.linkedin.com/in/rohanshorey
 - GitHub: https://github.com/RocketScientist512
+- Email: (mailto:rohan.shorey@thatoptimisticguy.com)
 
 ---
 
