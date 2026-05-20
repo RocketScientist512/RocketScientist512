@@ -67,6 +67,7 @@ Currently focused on:
 - Postman
 - Docker
 - VS Code
+- Cursor
 - Jira
 - Linux
 
