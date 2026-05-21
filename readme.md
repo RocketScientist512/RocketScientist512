@@ -30,12 +30,12 @@ Currently focused on:
 
 | Category | Technologies |
 |---|---|
-| **Languages** | JavaScript, TypeScript, Java, Python, SQL, HTML5 / CSS3 |
-| **Frontend** | React, Next.js, Tailwind CSS, Bootstrap |
-| **Backend** | Node.js, Express.js, REST APIs |
-| **Databases & Cloud** | MongoDB, MySQL, Firebase, BigQuery |
+| **Languages** | JavaScript, TypeScript, Java(Basic), Python, HTML5 / CSS3 |
+| **Frontend** | React, Tailwind CSS, Bootstrap |
+| **Backend** | Node.js, REST APIs |
+| **Databases & Cloud** | Firebase, Excel |
 | **Analytics & Experimentation** | Google Analytics, GA4, Google Tag Manager, Mixpanel, VWO, A/B Testing Frameworks |
-| **Tools & Platforms** | Git & GitHub, Postman, Docker, VS Code, Cursor, Jira, Linux |
+| **Tools & Platforms** | Git & GitHub, Postman, Docker, VS Code, Cursor, Jira |
 ---
 
 ## 📌 What I Work On
