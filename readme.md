@@ -26,66 +26,26 @@ Currently focused on:
 - 🎯 Interested in scalable SaaS products, developer platforms, and growth engineering
 
 ---
-
 ## 🛠 Tech Stack
 
-### Languages
-- JavaScript
-- TypeScript
-- Java
-- Python
-- SQL
-- HTML5 / CSS3
-
-### Frontend
-- React
-- Next.js
-- Tailwind CSS
-- Bootstrap
-
-### Backend
-- Node.js
-- Express.js
-- REST APIs
-
-### Databases & Cloud
-- MongoDB
-- MySQL
-- Firebase
-- BigQuery
-
-### Analytics & Experimentation
-- Google Analytics
-- GA4
-- Google Tag Manager
-- Mixpanel
-- VWO
-- A/B Testing Frameworks
-
-### Tools & Platforms
-- Git & GitHub
-- Postman
-- Docker
-- VS Code
-- Cursor
-- Jira
-- Linux
-
+| Category | Technologies |
+|---|---|
+| **Languages** | JavaScript, TypeScript, Java, Python, SQL, HTML5 / CSS3 |
+| **Frontend** | React, Next.js, Tailwind CSS, Bootstrap |
+| **Backend** | Node.js, Express.js, REST APIs |
+| **Databases & Cloud** | MongoDB, MySQL, Firebase, BigQuery |
+| **Analytics & Experimentation** | Google Analytics, GA4, Google Tag Manager, Mixpanel, VWO, A/B Testing Frameworks |
+| **Tools & Platforms** | Git & GitHub, Postman, Docker, VS Code, Cursor, Jira, Linux |
 ---
 
 ## 📌 What I Work On
 
-### Product Engineering
-Building scalable, user-focused applications with modern web technologies.
-
-### Experimentation & CRO
-Designing and implementing experimentation frameworks to improve user experience and business KPIs.
-
-### Analytics & Insights
-Creating measurement systems that transform product data into actionable insights.
-
-### AI & Automation
-Exploring intelligent workflows, AI-assisted tooling, and automation systems for product teams.
+| Focus Area | Description |
+|---|---|
+| **Product Engineering** | Building scalable, user-focused applications with modern web technologies. |
+| **Experimentation & CRO** | Designing and implementing experimentation frameworks to improve user experience and business KPIs. |
+| **Analytics & Insights** | Creating measurement systems that transform product data into actionable insights. |
+| **AI & Automation** | Exploring intelligent workflows, AI-assisted tooling, and automation systems for product teams. |
 
 ---
 
