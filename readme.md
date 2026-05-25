@@ -69,7 +69,6 @@ Currently focused on:
 ## 🌍 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/rohanshorey
-- GitHub: https://github.com/RocketScientist512
 - Email: (mailto:rohan.shorey@thatoptimisticguy.com)
 
 ---
